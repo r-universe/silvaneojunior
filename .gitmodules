@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OnlineSurr"]
+	path = OnlineSurr
+	url = https://github.com/silvaneojunior/onlinesurr
 [submodule "kDGLM"]
 	path = kDGLM
 	url = https://github.com/silvaneojunior/kdglm
